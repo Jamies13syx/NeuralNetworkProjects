@@ -1,0 +1,172 @@
+69213C	30FC	E383BC	©`	Vowel elongation mark for kana
+692421	3041	E38181	¤¡	Hiragana letter small A
+692422	3042	E38182	¤¢	Hiragana letter A
+692423	3043	E38183	¤£	Hiragana letter small I
+692424	3044	E38184	¤¤	Hiragana letter I
+692425	3045	E38185	¤¥	Hiragana letter small U
+692426	3046	E38186	¤¦	Hiragana letter U
+692427	3047	E38187	¤§	Hiragana letter small E
+692428	3048	E38188	¤¨	Hiragana letter E
+692429	3049	E38189	¤©	Hiragana letter small O
+69242A	304A	E3818A	¤ª	Hiragana letter O
+69242B	304B	E3818B	¤«	Hiragana letter KA
+69242C	304C	E3818C	¤¬	Hiragana letter GA
+69242D	304D	E3818D	¤­	Hiragana letter KI
+69242E	304E	E3818E	¤®	Hiragana letter GI
+69242F	304F	E3818F	¤¯	Hiragana letter KU
+692430	3050	E38190	¤°	Hiragana letter GU
+692431	3051	E38191	¤±	Hiragana letter KE
+692432	3052	E38192	¤²	Hiragana letter GE
+692433	3053	E38193	¤³	Hiragana letter KO
+692434	3054	E38194	¤´	Hiragana letter GO
+692435	3055	E38195	¤µ	Hiragana letter SA
+692436	3056	E38196	¤¶	Hiragana letter ZA
+692437	3057	E38197	¤·	Hiragana letter SI
+692438	3058	E38198	¤¸	Hiragana letter ZI
+692439	3059	E38199	¤¹	Hiragana letter SU
+69243A	305A	E3819A	¤º	Hiragana letter ZU
+69243B	305B	E3819B	¤»	Hiragana letter SE
+69243C	305C	E3819C	¤¼	Hiragana letter ZE
+69243D	305D	E3819D	¤½	Hiragana letter SO
+69243E	305E	E3819E	¤¾	Hiragana letter ZO
+69243F	305F	E3819F	¤¿	Hiragana letter TA
+692440	3060	E381A0	¤À	Hiragana letter DA
+692441	3061	E381A1	¤Á	Hiragana letter TI
+692442	3062	E381A2	¤Â	Hiragana letter DI
+692443	3063	E381A3	¤Ã	Hiragana letter small TU
+692444	3064	E381A4	¤Ä	Hiragana letter TU
+692445	3065	E381A5	¤Å	Hiragana letter DU
+692446	3066	E381A6	¤Æ	Hiragana letter TE
+692447	3067	E381A7	¤Ç	Hiragana letter DE
+692448	3068	E381A8	¤È	Hiragana letter TO
+692449	3069	E381A9	¤É	Hiragana letter DO
+69244A	306A	E381AA	¤Ê	Hiragana letter NA
+69244B	306B	E381AB	¤Ë	Hiragana letter NI
+69244C	306C	E381AC	¤Ì	Hiragana letter NU
+69244D	306D	E381AD	¤Í	Hiragana letter NE
+69244E	306E	E381AE	¤Î	Hiragana letter NO
+69244F	306F	E381AF	¤Ï	Hiragana letter HA
+692450	3070	E381B0	¤Ð	Hiragana letter BA
+692451	3071	E381B1	¤Ñ	Hiragana letter PA
+692452	3072	E381B2	¤Ò	Hiragana letter HI
+692453	3073	E381B3	¤Ó	Hiragana letter BI
+692454	3074	E381B4	¤Ô	Hiragana letter PI
+692455	3075	E381B5	¤Õ	Hiragana letter HU
+692456	3076	E381B6	¤Ö	Hiragana letter BU
+692457	3077	E381B7	¤×	Hiragana letter PU
+692458	3078	E381B8	¤Ø	Hiragana letter HE
+692459	3079	E381B9	¤Ù	Hiragana letter BE
+69245A	307A	E381BA	¤Ú	Hiragana letter PE
+69245B	307B	E381BB	¤Û	Hiragana letter HO
+69245C	307C	E381BC	¤Ü	Hiragana letter BO
+69245D	307D	E381BD	¤Ý	Hiragana letter PO
+69245E	307E	E381BE	¤Þ	Hiragana letter MA
+69245F	307F	E381BF	¤ß	Hiragana letter MI
+692460	3080	E38280	¤à	Hiragana letter MU
+692461	3081	E38281	¤á	Hiragana letter ME
+692462	3082	E38282	¤â	Hiragana letter MO
+692463	3083	E38283	¤ã	Hiragana letter small YA
+692464	3084	E38284	¤ä	Hiragana letter YA
+692465	3085	E38285	¤å	Hiragana letter small YU
+692466	3086	E38286	¤æ	Hiragana letter YU
+692467	3087	E38287	¤ç	Hiragana letter small YO
+692468	3088	E38288	¤è	Hiragana letter YO
+692469	3089	E38289	¤é	Hiragana letter RA
+69246A	308A	E3828A	¤ê	Hiragana letter RI
+69246B	308B	E3828B	¤ë	Hiragana letter RU
+69246C	308C	E3828C	¤ì	Hiragana letter RE
+69246D	308D	E3828D	¤í	Hiragana letter RO
+69246E	308E	E3828E	¤î	Hiragana letter small WA
+69246F	308F	E3828F	¤ï	Hiragana letter WA
+692470	3090	E38290	¤ð	Hiragana letter WI
+692471	3091	E38291	¤ñ	Hiragana letter WE
+692472	3092	E38292	¤ò	Hiragana letter WO
+692473	3093	E38293	¤ó	Hiragana letter N
+692521	30A1	E382A1	¥¡	Katakana letter small A
+692522	30A2	E382A2	¥¢	Katakana letter A
+692523	30A3	E382A3	¥£	Katakana letter small I
+692524	30A4	E382A4	¥¤	Katakana letter I
+692525	30A5	E382A5	¥¥	Katakana letter small U
+692526	30A6	E382A6	¥¦	Katakana letter U
+692527	30A7	E382A7	¥§	Katakana letter small E
+692528	30A8	E382A8	¥¨	Katakana letter E
+692529	30A9	E382A9	¥©	Katakana letter small O
+69252A	30AA	E382AA	¥ª	Katakana letter O
+69252B	30AB	E382AB	¥«	Katakana letter KA
+69252C	30AC	E382AC	¥¬	Katakana letter GA
+69252D	30AD	E382AD	¥­	Katakana letter KI
+69252E	30AE	E382AE	¥®	Katakana letter GI
+69252F	30AF	E382AF	¥¯	Katakana letter KU
+692530	30B0	E382B0	¥°	Katakana letter GU
+692531	30B1	E382B1	¥±	Katakana letter KE
+692532	30B2	E382B2	¥²	Katakana letter GE
+692533	30B3	E382B3	¥³	Katakana letter KO
+692534	30B4	E382B4	¥´	Katakana letter GO
+692535	30B5	E382B5	¥µ	Katakana letter SA
+692536	30B6	E382B6	¥¶	Katakana letter ZA
+692537	30B7	E382B7	¥·	Katakana letter SI
+692538	30B8	E382B8	¥¸	Katakana letter ZI
+692539	30B9	E382B9	¥¹	Katakana letter SU
+69253A	30BA	E382BA	¥º	Katakana letter ZU
+69253B	30BB	E382BB	¥»	Katakana letter SE
+69253C	30BC	E382BC	¥¼	Katakana letter ZE
+69253D	30BD	E382BD	¥½	Katakana letter SO
+69253E	30BE	E382BE	¥¾	Katakana letter ZO
+69253F	30BF	E382BF	¥¿	Katakana letter TA
+692540	30C0	E38380	¥À	Katakana letter DA
+692541	30C1	E38381	¥Á	Katakana letter TI
+692542	30C2	E38382	¥Â	Katakana letter DI
+692543	30C3	E38383	¥Ã	Katakana letter small TU
+692544	30C4	E38384	¥Ä	Katakana letter TU
+692545	30C5	E38385	¥Å	Katakana letter DU
+692546	30C6	E38386	¥Æ	Katakana letter TE
+692547	30C7	E38387	¥Ç	Katakana letter DE
+692548	30C8	E38388	¥È	Katakana letter TO
+692549	30C9	E38389	¥É	Katakana letter DO
+69254A	30CA	E3838A	¥Ê	Katakana letter NA
+69254B	30CB	E3838B	¥Ë	Katakana letter NI
+69254C	30CC	E3838C	¥Ì	Katakana letter NU
+69254D	30CD	E3838D	¥Í	Katakana letter NE
+69254E	30CE	E3838E	¥Î	Katakana letter NO
+69254F	30CF	E3838F	¥Ï	Katakana letter HA
+692550	30D0	E38390	¥Ð	Katakana letter BA
+692551	30D1	E38391	¥Ñ	Katakana letter PA
+692552	30D2	E38392	¥Ò	Katakana letter HI
+692553	30D3	E38393	¥Ó	Katakana letter BI
+692554	30D4	E38394	¥Ô	Katakana letter PI
+692555	30D5	E38395	¥Õ	Katakana letter HU
+692556	30D6	E38396	¥Ö	Katakana letter BU
+692557	30D7	E38397	¥×	Katakana letter PU
+692558	30D8	E38398	¥Ø	Katakana letter HE
+692559	30D9	E38399	¥Ù	Katakana letter BE
+69255A	30DA	E3839A	¥Ú	Katakana letter PE
+69255B	30DB	E3839B	¥Û	Katakana letter HO
+69255C	30DC	E3839C	¥Ü	Katakana letter BO
+69255D	30DD	E3839D	¥Ý	Katakana letter PO
+69255E	30DE	E3839E	¥Þ	Katakana letter MA
+69255F	30DF	E3839F	¥ß	Katakana letter MI
+692560	30E0	E383A0	¥à	Katakana letter MU
+692561	30E1	E383A1	¥á	Katakana letter ME
+692562	30E2	E383A2	¥â	Katakana letter MO
+692563	30E3	E383A3	¥ã	Katakana letter small YA
+692564	30E4	E383A4	¥ä	Katakana letter YA
+692565	30E5	E383A5	¥å	Katakana letter small YU
+692566	30E6	E383A6	¥æ	Katakana letter YU
+692567	30E7	E383A7	¥ç	Katakana letter small YO
+692568	30E8	E383A8	¥è	Katakana letter YO
+692569	30E9	E383A9	¥é	Katakana letter RA
+69256A	30EA	E383AA	¥ê	Katakana letter RI
+69256B	30EB	E383AB	¥ë	Katakana letter RU
+69256C	30EC	E383AC	¥ì	Katakana letter RE
+69256D	30ED	E383AD	¥í	Katakana letter RO
+69256E	30EE	E383AE	¥î	Katakana letter small WA
+69256F	30EF	E383AF	¥ï	Katakana letter WA
+692570	30F0	E383B0	¥ð	Katakana letter WI
+692571	30F1	E383B1	¥ñ	Katakana letter WE
+692572	30F2	E383B2	¥ò	Katakana letter WO
+692573	30F3	E383B3	¥ó	Katakana letter N
+692574	30F4	E383B4	¥ô	Katakana letter VU
+692575	30F5	E383B5	¥õ	Katakana letter small KA
+692576	30F6	E383B6	¥ö	Katakana letter small KE
+692577	309B	E3829B	©a	Katakana-hiragana voiced sound mark
+692578	309C	E3829C	©b	Katakana-hiragana semi-voiced sound mark
